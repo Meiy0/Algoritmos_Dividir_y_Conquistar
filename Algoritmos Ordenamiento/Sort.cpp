@@ -53,6 +53,5 @@ int main(){
     //Cerrar archivo.
     file.close();
     write.close();
-    system("pause");
     return 0;
 }
