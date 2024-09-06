@@ -120,6 +120,5 @@ int main(){
     //Cerrar archivos.
     file.close();
     write.close();
-    system("pause");
     return 0;
 }
